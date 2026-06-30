@@ -1,0 +1,5 @@
+Initialized the Customer Churn Prediction & LTV Engine project.
+Downloaded and explored the Telco Customer Churn dataset.
+Set up the Jupyter Notebook environment and imported required Python libraries.
+Technologies: Python, Pandas, NumPy, Jupyter Notebook.
+Learning Outcome: Understood the project objective, dataset structure, and business problem.

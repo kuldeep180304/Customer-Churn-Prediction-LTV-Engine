@@ -1,0 +1,4 @@
+Split the dataset into training and testing sets.
+Balanced the dataset using SMOTE to address class imbalance.
+Technologies: Scikit-learn, SMOTE.
+Learning Outcome: Learned the importance of handling imbalanced datasets.

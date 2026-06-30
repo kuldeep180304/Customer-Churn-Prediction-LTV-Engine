@@ -1,0 +1,4 @@
+Performed feature engineering.
+Applied One-Hot Encoding and MinMax Scaling for machine learning readiness.
+Technologies: Scikit-learn.
+Learning Outcome: Understood encoding techniques and feature scaling.

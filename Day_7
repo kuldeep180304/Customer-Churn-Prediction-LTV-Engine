@@ -1,0 +1,4 @@
+Implemented Logistic Regression and compared its performance with other models.
+Selected Logistic Regression as the final model with 82.26% accuracy.
+Technologies: Scikit-learn.
+Learning Outcome: Learned model evaluation and performance comparison.

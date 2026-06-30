@@ -1,0 +1,4 @@
+Calculated Customer Lifetime Value (LTV) using Monthly Charges and Tenure.
+Created LTV segments (Low, Medium, High).
+Technologies: Pandas.
+Learning Outcome: Understood customer value analysis and segmentation.

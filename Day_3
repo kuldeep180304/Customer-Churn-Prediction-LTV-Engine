@@ -1,0 +1,4 @@
+Conducted Exploratory Data Analysis (EDA).
+Generated churn distribution, KDE plots, correlation heatmaps, and contract analysis.
+Technologies: Matplotlib, Seaborn.
+Learning Outcome: Gained insights into customer behavior and churn patterns.

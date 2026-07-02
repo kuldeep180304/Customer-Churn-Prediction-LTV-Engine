@@ -1,0 +1,4 @@
+Performed data cleaning by removing unnecessary columns and checking missing values.
+Converted incorrect data types and cleaned the TotalCharges column.
+Technologies: Pandas.
+Learning Outcome: Learned practical data preprocessing and handling inconsistent data.

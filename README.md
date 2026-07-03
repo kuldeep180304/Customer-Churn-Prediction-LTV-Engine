@@ -75,42 +75,7 @@ This project develops an **end-to-end Customer Churn Prediction & Lifetime Value
 
 # 📊 Project Workflow
 
-```text
-Data Collection
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Exploratory Data Analysis (EDA)
-      │
-      ▼
-Feature Engineering
-      │
-      ▼
-One-Hot Encoding
-      │
-      ▼
-Feature Scaling
-      │
-      ▼
-SMOTE (Class Balancing)
-      │
-      ▼
-Machine Learning Models
-      │
-      ▼
-Model Evaluation
-      │
-      ▼
-Customer Lifetime Value (LTV)
-      │
-      ▼
-LTV Segmentation
-      │
-      ▼
-Power BI Dashboard
-```
+<img width="947" height="626" alt="WORKFLOW" src="https://github.com/user-attachments/assets/1f5fb0ea-7325-4c3e-8b3f-a3a091fe029b" />
 
 ---
 
@@ -212,7 +177,8 @@ The interactive dashboard includes:
 > Replace the image below after uploading.
 
 ```markdown
-![Dashboard](images/dashboard.png)
+<img width="1432" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/5da18376-d896-4d21-8cf7-4be89cc7d05e" />
+
 ```
 
 ---

@@ -182,26 +182,19 @@ The interactive dashboard includes:
 
 ### Churn Distribution
 
-```markdown
-<img width="747" height="527" alt="churn_distribution" src="https://github.com/user-attachments/assets/98b86882-8ac6-4ef0-ac1a-b6bbbc9a5689" />
-
-```
+<img width="747" height="527" alt="churn_distribution" src="https://github.com/user-attachments/assets/2b6f7c16-25ef-41a1-8fff-fc693d6c1666" />
 
 ---
 
 ### Contract Analysis
 
-```markdown
-![Contract Analysis](images/churn_contract.png)
-```
+<img width="895" height="592" alt="churn by contract type" src="https://github.com/user-attachments/assets/a74e40d2-638c-4964-b086-cf1003db1db9" />
 
 ---
 
 ### Customer Lifetime Value Analysis
 
-```markdown
-![LTV Analysis](images/ltv_analysis.png)
-```
+<img width="936" height="601" alt="Customer LTV value" src="https://github.com/user-attachments/assets/1cc90d33-38dc-4ae6-83bd-03435c20b122" />
 
 ---
 

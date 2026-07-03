@@ -183,7 +183,8 @@ The interactive dashboard includes:
 ### Churn Distribution
 
 ```markdown
-![Churn Distribution](images/churn_distribution.png)
+<img width="747" height="527" alt="churn_distribution" src="https://github.com/user-attachments/assets/98b86882-8ac6-4ef0-ac1a-b6bbbc9a5689" />
+
 ```
 
 ---

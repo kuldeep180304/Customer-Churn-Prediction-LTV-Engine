@@ -174,12 +174,7 @@ The interactive dashboard includes:
 
 ## Customer Churn Dashboard
 
-> Replace the image below after uploading.
-
-```markdown
-<img width="1432" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/5da18376-d896-4d21-8cf7-4be89cc7d05e" />
-
-```
+<img width="1432" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/0f137e14-93a6-48ec-b761-52f7ae1b4bd6" />
 
 ---
 

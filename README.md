@@ -198,15 +198,6 @@ The interactive dashboard includes:
 
 ---
 
-### Model Evaluation
-
-```markdown
-<img width="1432" height="702" alt="feature_importance" src="https://github.com/user-attachments/assets/b09f98b6-5384-4342-81ad-693119c4f6f7" />
-
-```
-
----
-
 # 💡 Key Business Insights
 
 - Customers with Month-to-Month contracts exhibit the highest churn rate.

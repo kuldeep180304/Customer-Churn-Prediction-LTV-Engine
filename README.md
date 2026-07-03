@@ -1,4 +1,4 @@
-# customer-churn-prediction-ltv-engine
+
 # 🚀 Customer Churn Prediction & Lifetime Value (LTV) Engine
 
 <p align="center">

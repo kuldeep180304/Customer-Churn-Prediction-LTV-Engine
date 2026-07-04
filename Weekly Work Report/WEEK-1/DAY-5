@@ -3,3 +3,7 @@ Work Done: Split the dataset into training and testing sets and balanced the dat
 Learning Outcome: Learned how to handle class imbalance and improve model performance.
 Status: ✅ Completed
 -----------------------------------------------------------------------------------------------
+Name: Shraddha Karmale
+Work Done: Verified the train-test split, checked class distribution, and validated the balanced dataset before model training.
+Learning Outcome: Learned the importance of proper data splitting and balanced datasets for reliable predictions.
+Status:  Completed

@@ -7,3 +7,8 @@ Name: Shraddha Karmale
 Work Done: Created new derived features, encoded categorical variables, and verified feature transformations.
 Learning Outcome: Learned how feature engineering improves model performance and prediction accuracy.
 Status: Completed
+-------------------------------------------------------------------------------------------------------------
+Name: Swaroop Sharma
+Work Done: Evaluated feature importance and selected relevant attributes for churn prediction.
+Learning Outcome: Learned techniques for selecting meaningful features to reduce model complexity.
+Status: Completed

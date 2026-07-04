@@ -7,3 +7,8 @@ Name: Shraddha Karmale
 Work Done: Verified the train-test split, checked class distribution, and validated the balanced dataset before model training.
 Learning Outcome: Learned the importance of proper data splitting and balanced datasets for reliable predictions.
 Status:  Completed
+----------------------------------------------------------------------------------------------------------------------------
+Name: Swaroop Sharma
+Work Done: Prepared the processed dataset for machine learning models and documented the preprocessing workflow.
+Learning Outcome: Learned how organized data preparation improves model development and reproducibility.
+Status: ✅ Completed

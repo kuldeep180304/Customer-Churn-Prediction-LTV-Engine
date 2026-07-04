@@ -1,6 +1,10 @@
 Name: Kuldeep Upadhyay
 Date: 011/06/2026
-Work Done: Initialized the project, set up the development environment, and explored the Telco Customer Churn dataset.
+Work Done: Initialized the project,set up the development environment, and explored the Telco Customer Churn dataset.
 Learning Outcome: Learned the project objective and understood the dataset structure and available features.
 Status: Completed
 -------------------------------------------------------------------------------------------------------------------------------
+Name: Shraddha Karmale
+Work Done: Collected project requirements,reviewed the dataset documentation, and identified the target variables for churn and LTV analysis.
+Learning Outcome: Learned how to understand business requirements and define project objectives before model development.
+Status: ✅ Completed

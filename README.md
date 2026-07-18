@@ -236,17 +236,6 @@ Customer-Churn-Prediction-LTV-Engine
 ├── requirements.txt
 └── .gitignore
 ```
-
----
-
-# 🚀 Future Enhancements
-
-- Deploy model using FastAPI
-- PostgreSQL database integration
-- Docker containerization
-- Real-time churn prediction API
-- Cloud deployment (Azure / AWS)
-
 ---
 
 # 📚 Skills Demonstrated
@@ -265,9 +254,9 @@ Customer-Churn-Prediction-LTV-Engine
 
 # 👨‍💻 Author
 
-## Kuldeep Upadhyay
+# Kuldeep Upadhyay
 
-📧 Email: 
+📧 Email: kuldeep180304@gmail.com
 
 💻 GitHub: https://github.com/kuldeep180304
 
